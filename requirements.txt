@@ -1,0 +1,14 @@
+
+streamlit
+torch
+torchvision
+opencv-python-headless
+numpy<2
+pandas
+matplotlib
+Pillow
+open3d
+laspy[lazrs]
+scipy
+scikit-image
+scikit-learn
