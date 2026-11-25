@@ -40,7 +40,7 @@ The application helps analyze forest density, understand tree distribution, and 
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Chandanakamesh123/TREE ENUMERATION.git
+git clone https://github.com/Chandanakamesh123/TREE-ENUMERATION.git
 ```
 
 **Move into the project folder:**
