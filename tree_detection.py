@@ -3,7 +3,7 @@ from deepforest import main
 import numpy as np
 
 model = main.deepforest()
-model.use_release()
+model.load_model("weecology/deepforest-tree")
 
 def detect_trees(image):
 
